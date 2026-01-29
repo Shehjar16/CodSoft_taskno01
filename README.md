@@ -1,9 +1,7 @@
-# 🛒 MERN E-Commerce Platform (SkyMart)
+# 🛒 MERN E-Commerce Platform
 
 A modern, scalable **E-Commerce application** built with **React** and designed to evolve into a **full-stack MERN project** with an **Admin Dashboard**, authentication, and order management.
 
-🔗 Live Demo: (Coming soon – Netlify)  
-🔗 GitHub Repo: https://github.com/Mushran695/mern-ecommerce
 
 ---
 
